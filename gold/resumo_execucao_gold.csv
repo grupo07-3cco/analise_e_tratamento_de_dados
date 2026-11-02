@@ -1,0 +1,7 @@
+indicador,valor
+leituras_processadas,50000
+sensores_monitorados,5
+alertas_operacionais,13757
+inicio_coleta,2026-11-01 17:58:28
+fim_coleta,2026-11-02 02:20:17
+tempo_resposta_medio_minutos,indisponivel: faltam eventos de atendimento

@@ -1,0 +1,6 @@
+data_hora,alvo_monitoramento,sensor,valor,unidade,prioridade
+2026-11-02 02:20:17,incubadora,umidade,90.1,percentual,alta
+2026-11-02 02:18:53,dispositivo neonatal,frequencia_cardiaca,64.7,bpm,normal
+2026-11-02 02:19:13,dispositivo neonatal,oxigenio,94.7,percentual,normal
+2026-11-01 19:21:48,incubadora,ruido,8.83,decibeis,normal
+2026-11-02 02:19:28,incubadora,temperatura,23.7,graus_celsius,normal
